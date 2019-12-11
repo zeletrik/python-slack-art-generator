@@ -4,7 +4,7 @@ A little python script to generate art for Slack
 ## Dependencies ##
 
 - pyfiglet:  `pip install pyfiglet`
-- argparse:  `pip install clipboard`
+- argparse:  `pip install argparse`
 - clipboard: `pip install clipboard`
 
 Make sure your Slack has an emoji called _:empty:_ with an empty block
